@@ -12,4 +12,5 @@ https://youtu.be/QFz7uhRMyTQ
 https://youtu.be/ilcye1yT-Lw
 https://youtu.be/qoXgnffI_QY
 https://youtu.be/jUhrikiZ9vc
+https://youtu.be/c8EH47_taL8
 **Undergraduate Class & Lab
