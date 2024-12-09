@@ -1,4 +1,4 @@
-Learning Objectives [# CSCI101-Spring2024.](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1-credit) December, 9, 2024.
+Learning Objectives [# CSCI101-Spring2024.](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1-credit), Date created/updated: December, 9, 2024.
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 CSCI101 Introduction to computer technology (computer hardware (processors, LMC, storage, I/O devices, software life cycle), software components and applications, Exploratory Data Analysis (visualization plots), programming constructs, secure computing (threats, malware, phishing, vulnerability), Exploratory Data Analysis (visualization plots), statistical tests (T-test, correlation, ANOVA, chi-square) functions, ethics in computing.
 [Faculty Profile:](https://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-pawar-shrikant)
