@@ -19,7 +19,7 @@ https://youtu.be/d8NKb8Io0f0
 https://www.claflin.edu/ [Claflin University, Orangeburg, South Carolina, United States of America (USA).](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
 ![download](https://github.com/user-attachments/assets/6f2dff7c-b58d-448b-9952-a9b9cd4f868e)
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
-
+Student Evaluations (2021-2026): https://www.claflin-computation.com/_files/ugd/81dd80_ae28e89ed22e41c39513d1764b5c9628.pdf
 https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 
 
